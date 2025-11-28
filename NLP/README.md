@@ -8,27 +8,34 @@ A Jupyter Notebook (code)
 A PDF report (summary + results)
 
 🔹 Contents
+
 Lab 1: Text Preprocessing
 Cleaning → tokenization → lemmatization → stopword removal
 Built a preprocessing pipeline using NLTK and spaCy
 Removed punctuation, digits, and noise
 Prepared clean token sets for downstream modeling
+
 Files:
 Lab1_Rohini_Text_Preprocessing.ipynb
 Lab1_Rohini_Text_Preprocessing.pdf
+
 Lab 2: Basic NLP Functions
 Utility NLP methods for downstream feature engineering
 Implemented normalization, tokenization, POS tagging, stemming
 Created reusable helper functions for analysis pipelines
+
 Files:
 Lab2_Rohini_NLP_Functions.ipynb
 Lab2_Rohini_NLP_Functions.pdf
+
 Lab 3: Feature Vectorization & Sentiment Analysis
+
 BoW → TF-IDF → Word2Vec → Sentiment Models
 Built Bag-of-Words and TF-IDF vectorizers
 Trained Word2Vec embeddings
 Performed sentiment scoring using TextBlob & VADER
 Compared vectorization methods for classification tasks
+
 Files:
 Lab3_Rohini_Vectorization_Sentiment.ipynb
 Lab3_Rohini_Vectorization_Sentiment.pdf
