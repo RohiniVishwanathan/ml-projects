@@ -1,9 +1,12 @@
 Natural Language Processing Portfolio – Rohini Vishwanathan
+
 This folder contains my natural language processing coursework and applied projects completed as part of a graduate-level NLP class at Claremont Graduate University.
 The work spans the full NLP pipeline—preprocessing, feature engineering, vectorization, topic modeling, BERT embedding, and text classification—applied on real-world datasets such as Yelp reviews.
+
 Each lab includes both:
 A Jupyter Notebook (code)
 A PDF report (summary + results)
+
 🔹 Contents
 Lab 1: Text Preprocessing
 Cleaning → tokenization → lemmatization → stopword removal
